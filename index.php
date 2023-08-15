@@ -6,7 +6,7 @@
     <title>Banking System</title>
     <!-- Add CSS and Bootstrap links here -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <style>
     /* Add the styles for the loading animation here */
     .loading {
@@ -91,7 +91,7 @@
     </div>
 
     <!-- Add JavaScript and jQuery links here -->
-    <script src="js/jquery.min.js"></script>
+    <script src="jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
 
     <!-- Add jQuery CDN here if not already included -->
